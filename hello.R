@@ -1,3 +1,3 @@
-# install.packages("cowsay")
+install.packages("cowsay")
 library("cowsay")
 say("Hello World", "cow")
